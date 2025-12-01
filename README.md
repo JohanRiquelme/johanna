@@ -71,6 +71,6 @@ I believe in kindness, patience, and helping others. I volunteer with the Vineya
 📍 Dublin, Ireland  
 📱 **089 974 9357**  
 📧 johanna.oleo@gmail.com  
-🔗 LinkedIn : linkedin.com/in/johannariquelme | GitHub: https://github.com/JohanRiquelme
+🔗 LinkedIn : linkedin.com/in/johannariquelme | GitHub: https://github.com/JohanRiquelme/johanna
 
 ---
