@@ -2,7 +2,7 @@
 
 Hi! I’m **Johanna**, an IT Technician and Business Administrator based in Dublin.  
 I am studying English (B2 level), expanding my technical skills, and preparing for a career in **IT Support, Systems Administration, and Data Analysis**.
-
+●	Currently completing a **Postgraduate Diploma in Data Analytics (NFQ Level 9) at CCT College Dublin**, strengthening skills in cybersecurity, Python, and data analysis. 
 I enjoy fixing problems, helping users, learning new technologies, and contributing to organisations that care for people — such as **Share Home and Nazareth Care Ireland**, a place I visit frequently and admire.
 
 ---
