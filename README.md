@@ -71,6 +71,9 @@ I believe in kindness, patience, and helping others. I volunteer with the Vineya
 📍 Dublin, Ireland  
 📱 **089 974 9357**  
 📧 johanna.oleo@gmail.com  
-🔗 LinkedIn : linkedin.com/in/johannariquelme | GitHub: https://github.com/JohanRiquelme/johanna
+🔗 LinkedIn : linkedin.com/in/johannariquelme | GitHub:      
+https://github.com/JohanRiquelme/johanna || Read me 
+https://github.com/JohanRiquelme/ePortfolio || ePortfolio Public | job simulations.  (it is not ready at the moment, i am working on those).
+https://github.com/JohanRiquelme/thesis_Data_security || Balancing Anonymity and Accuracy An Ethical Assessment of Privacy-Preserving Methods
 
 ---
