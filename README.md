@@ -1,7 +1,9 @@
 # 💻 Johanna Riquelme — Data Analyst | IT Support Specialist
 
 Hi! I'm **Johanna**, 
-####a Data Analyst in training I graduated with a **Postgraduate Diploma in Data Analytics (NFQ Level 9) at CCT College Dublin (2025)**.
+
+### 
+a Data Analyst in training I graduated with a **Postgraduate Diploma in Data Analytics (NFQ Level 9) at CCT College Dublin (2025)**.
 
 I bring a strong background in **IT support and systems administration**, combined with growing expertise in **data cleaning, analysis, and visualization**.
 
