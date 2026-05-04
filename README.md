@@ -48,10 +48,20 @@ English (Fluent) | Spanish (Native)
 
 *(Currently developing a structured data portfolio)*
 
-* **Data Cleaning Project**
-  Cleaning and preparing raw datasets for analysis using Python (Pandas)
+* **Read me** 
+https://github.com/JohanRiquelme/johanna || Read me
+* **ePortfolio Public**
+https://github.com/JohanRiquelme/ePortfolio || ePortfolio Public | job simulations. (it is in growing up).
 
-* **Sales Data Analysis (In Progress)**
+https://github.com/JohanRiquelme/thesis_Data_security || Balancing Anonymity and Accuracy An Ethical Assessment of Privacy-Preserving Methods
+
+* **Descriptive Statistics Project**
+  https://github.com/JohanRiquelme/Descriptive_Statistics || Descriptive Statistics_titanic_dataset.ipynb for analysis using Python (Pandas)
+
+* **EDA**
+  https://github.com/JohanRiquelme/EDA
+  
+* **Sales Data Analysis (I am working on those)**
   Identifying trends, patterns, and key insights from business data
 
 * **Interactive Dashboard (Planned)**
