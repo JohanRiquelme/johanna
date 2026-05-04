@@ -76,14 +76,6 @@ English (Fluent) | Spanish (Native)
 
 ---
 
-## 📂 Selected Projects
-
-* **data-cleaning-project** — Data preparation and quality improvement using Python
-* **log-analyzer** — Log file processing and error analysis
-* **occupancy-report** — Data grouping and reporting from raw datasets
-
----
-
 ## 🌟 Professional Background
 
 I bring over 21 years of experience across IT support, administration, finance, and retail operations. This background has strengthened my ability to work with data, solve problems, and support business processes in fast-paced environments.
