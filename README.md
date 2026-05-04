@@ -46,7 +46,7 @@ English (Fluent) | Spanish (Native)
 
 ## 📊 Featured Projects
 
-*(Currently developing a structured data portfolio)*
+*(Currently developing a structured data portfolio, GibHub likns;)*
 
 * **Read me**
   
