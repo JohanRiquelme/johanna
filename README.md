@@ -1,70 +1,98 @@
 # 💻 Johanna Riquelme — Data Analyst | IT Support Specialist
 
-Hi! I'm **Johanna**, 
+## 👋 About Me
 
-### 
-a Data Analyst in training I graduated with a **Postgraduate Diploma in Data Analytics (NFQ Level 9) at CCT College Dublin (2025)**.
+I am a Data Analyst in training with a **Postgraduate Diploma in Data Analytics (NFQ Level 9)** from CCT College Dublin. I bring a strong background in **IT support, systems administration, and operations**, combined with growing expertise in **data cleaning, analysis, and visualisation**.
 
-I bring a strong background in **IT support and systems administration**, combined with growing expertise in **data cleaning, analysis, and visualization**.
+I am currently building a focused portfolio to demonstrate my ability to transform raw data into meaningful insights that support business decision-making.
 
+---
 
 ## 🔧 Core Skills
-Programming:Python
 
-Data Analysis & Visualization:Excel (reporting, data manipulation), Data cleaning using Python (Pandas),Basic statistical analysis, Data visualization (Excel, Python)
+**Programming:**
+Python
 
-Networking & Cloud Technologies:Routing and switching fundamentals,WLAN/LAN connectivity troubleshooting, Familiar with Microsoft Azure, IT support (Level 1 & 2)
+**Data Analysis & Visualisation:**
 
-Systems & Business Applications: Microsoft 365 and Active Directory, SAP, Salesforce (CRM systems)
+* Excel (reporting, data manipulation)
+* Data cleaning using Python (Pandas)
+* Basic statistical analysis
+* Data visualisation (Excel, Python, Power BI – beginner)
 
-Professional Skills: Strong attention to detail, Technical problem-solving, Logical and analytical thinking, Teamwork and leadership, Growth mindset
+**Databases & Tools:**
 
-Languages: English (fluent), Spanish (Native)
+* SQL
+* Excel (PivotTables, data cleaning)
+
+**IT & Systems:**
+
+* Microsoft 365 & Active Directory
+* IT Support (Level 1 & 2)
+* Networking fundamentals (WLAN/LAN)
+
+**Professional Skills:**
+
+* Attention to detail
+* Problem-solving
+* Analytical thinking
+* Team collaboration
+* Growth mindset
+
+**Languages:**
+English (Fluent) | Spanish (Native)
 
 ---
 
 ## 📊 Featured Projects
-*(Currently building a focused data portfolio)*
 
-- **Data Cleaning Pipeline** — Preparing messy datasets for analysis  
-- **Sales Data Analysis** — Extracting insights and trends  
-- **Interactive Dashboard** — Visualizing key metrics  
+*(Currently developing a structured data portfolio)*
+
+* **Data Cleaning Project**
+  Cleaning and preparing raw datasets for analysis using Python (Pandas)
+
+* **Sales Data Analysis (In Progress)**
+  Identifying trends, patterns, and key insights from business data
+
+* **Interactive Dashboard (Planned)**
+  Visualising key metrics using Power BI
 
 ---
 
 ## 🛠 Technical Experience
 
 ### IT Support & Systems
-- Windows troubleshooting & hardware upgrades  
-- Active Directory (users, permissions)  
-- Microsoft 365 Admin (Exchange, MFA, SharePoint)  
-- Network basics (IP, Wi-Fi, switching)  
+
+* Windows troubleshooting and hardware upgrades
+* Active Directory (user and permissions management)
+* Microsoft 365 Administration (Exchange, MFA, SharePoint)
+* Network troubleshooting (IP, connectivity)
 
 ### Data & Tools
-- Python (Pandas, NumPy)  
-- SQL  
-- Excel (PivotTables, data cleaning)  
+
+* Python (Pandas, NumPy)
+* SQL (basic queries)
+* Excel (PivotTables, reporting, data cleaning)
 
 ---
 
 ## 📂 Selected Projects
-- **data-cleaning** — CSV cleaning using pandas  
-- **log-analyzer** — system log error analysis  
-- **occupancy-report** — grouped reporting from raw data  
+
+* **data-cleaning-project** — Data preparation and quality improvement using Python
+* **log-analyzer** — Log file processing and error analysis
+* **occupancy-report** — Data grouping and reporting from raw datasets
 
 ---
 
-## 🌟 About Me
-- Strong problem-solving mindset  
-- Patient and user-focused  Since arriving in Ireland in 2021, I have been working in the retail sector, where I have consistently demonstrated strong responsibility, reliability, and commitment to high standards of performance. I am proud to have built a reputation for delivering results and maintaining excellent working relationships, supported by strong references from previous employers.
+## 🌟 Professional Background
 
-In my current role at Londis, I am responsible for stock and asset control, reporting discrepancies for replenishment, inventory management, price verification, and maintaining an organised store environment.
+I bring over 21 years of experience across IT support, administration, finance, and retail operations. This background has strengthened my ability to work with data, solve problems, and support business processes in fast-paced environments.
 
-Prior to relocating to Ireland, I built over 21 years of professional experience in IT-related roles, including IT support and administrative positions. This background has provided me with strong technical, organisational, and problem-solving skills. Further details of my experience and employment history can be found on my LinkedIn profile.
-now di looking for an oportunity to reeboot my carrer Data Analyst with a background in IT support and retail operations, currently building hands-on experience in data cleaning, analysis, and visualization.
+Currently based in Dublin, I am seeking an **entry-level Data Analyst or Operations/Data role**, where I can apply my technical skills and continue developing in data analysis and visualisation.
 
 ---
 
 ## 🔗 Links
-- LinkedIn: https://linkedin.com/in/johannariquelme  
-- GitHub Portfolio: https://github.com/JohanRiquelme/johanna
+
+* LinkedIn: https://linkedin.com/in/johannariquelme
+* GitHub Portfolio: https://github.com/JohanRiquelme/johanna
