@@ -50,7 +50,7 @@ English (Fluent) | Spanish (Native)
 
 * **Read me**
   
-https://github.com/JohanRiquelme/johanna || Read me
+https://github.com/JohanRiquelme/johanna || Read me About Me, Johanna
 
 * **Thesis Data Security**
   
