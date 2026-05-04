@@ -67,4 +67,4 @@ now di looking for an oportunity to reeboot my carrer Data Analyst with a backgr
 
 ## 🔗 Links
 - LinkedIn: https://linkedin.com/in/johannariquelme  
-- GitHub Portfolio: https://github.com/JohanRiquelme
+- GitHub Portfolio: https://github.com/JohanRiquelme/johanna
